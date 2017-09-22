@@ -1,1 +1,1 @@
-# APPS with HTMLS, JS and CSS
+# APPS with HTML, JS and CSS
