@@ -1,40 +1,40 @@
 ============================================================
 Saludos, 
 ============================================================
-- Mi juego requiere de rápidos y precisos movimientos y he visto de que usar el acelerómetro para esto no es lo más conveniente, por ello he limitado el uso del acelerómetro solo para pausar/reanudar el juego.
+- Mi juego requiere de rapidos y precisos movimientos y he visto de que usar el aceler—metro para esto no es lo m‡s conveniente, por ello he limitado el uso del aceler—metro solo para pausar/reanudar el juego.
 
 ============================================================
 Escenario:
 ============================================================
-- Dos autos, uno rojo y otro azul, ambos bajo el control del jugador
-- Una carretera por donde van llegando otros autos de color verde y objetivos a cazar
+- Dos coches, uno rojo y otro azul, ambos bajo el control del jugador
+- Una carretera por donde van llegando otros coches de color verde y objetivos a cazar
 
 ============================================================
 Objetivos del juego:
 ============================================================
-- Esquivar a todos los autos verdes
-- Tocar o chocar a todos los objetivos (círculos de color rojo o azul)
+- Esquivar a todos los coches verdes
+- Tocar o chocar a todos los objetivos (c’rculos de color rojo o azul)
 
 ============================================================
 Recompensas:
 ============================================================
-- Al tocar o chocar un objetivo (círculos de color rojo o azul) = +5 puntos
-- Al esquivar un auto verde = +1 punto
+- Al tocar o chocar un objetivo (c’rculos de color rojo o azul) = +5 puntos
+- Al esquivar un coche verde = +1 punto
 
 ============================================================
 Penalizaciones:
 ============================================================
-- Al tocar o chocar a un auto verde = -10 puntos
+- Al tocar o chocar a un coche verde = -10 puntos
 - Al esquivar o dejar pasar un objetivo = -5 puntos
 
 ============================================================
 Dificultad:
 ============================================================
-- La dificultad se basa en el aumento velocidad de los obstáculos (autos verdes u objetivos) que dependerá del puntaje actual.
+- La dificultad se basa en el aumento velocidad de los obst‡culos (coches verdes u objetivos) que depender‡ del puntaje actual.
 
 ============================================================
 Controles:
 ============================================================
-- La carretera se divide en los pistas, una para cada auto del jugador, el jugador debe dar un Click o Tap en la pista del auto que quiere mover. Se recomienda usar los dos pulgares. Las teclas direccionales Izquierda y Derecha mueven el auto rojo y azul respectivamente. Puede llegar a ser difícil utilizarlo así, pero es un grado de dificultad del juego, la coordinación de los dedos y el hábito del uso común de estas teclas.
+- La carretera se divide en dos pistas, una para cada coche del jugador, el jugador debe dar un Click o Tap en la pista del coche que quiere mover. Se recomienda usar los dos pulgares. Las teclas direccionales Izquierda y Derecha mueven el coche rojo y azul respectivamente. Puede llegar a ser dif’cil utilizarlo as’, pero es un grado de dificultad del juego, la coordinaci—n de los dedos y el h‡bito del uso comœn de estas teclas.
 
-- Sacudir el SmartPhone para pausar o reanudar el juego. La tecla ENTER hace lo mismo. Cuidado con tirar el móvil al suelo XD. Basta con una sacudida en cualquier eje, recomiendo una sacudida hacia atrás como si se lanzara una caña de pescar.
+- Sacudir el SmartPhone para pausar o reanudar el juego. La tecla ENTER hace lo mismo. Cuidado con tirar el m—vil al suelo XD. Basta con una sacudida en cualquier eje, recomiendo una sacudida hacia atr‡s como si se lanzara una ca–a de pescar.
